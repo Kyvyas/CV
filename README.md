@@ -12,13 +12,23 @@ Having taken an interest in software development at university, I decided to rev
 | [On Tap](https://github.com/Kyvyas/onTap_2.git) | A Web app built during a two day codeathon. It simply finds the best pubs in your area using Yelp and Google Maps | Javascript, Angular.js, Sinatra, CSS, HTML, Karma, Yelp API, Google Maps API |
 | [Instagram Clone](https://github.com/Kyvyas/instagram-challenge) | A clone of instagram, recreating the basic functionality | Ruby on Rails, jQuery, Bootstrap, Haml, CSS |
 
+### Technologies
+
+|    | Know | Some exposure | Learning |
+| ----------     | ----------     | ------------    | ----------      |
+| Languages | Ruby, Javascript, jQuery, HTML, CSS, Haml | C++, Java | C, Python, Swift |
+| Databases | PostgreSQL, Datamapper, ActiveRecord  |   | MongoDB, Firebase |
+| Frameworks | Sinatra, Ruby on Rails, Angular.js, Bootstrap | Node.js, Ember.js | Django, Ionic |
+| Testing | RSpec, Capybara, Jasmine, Karma, Protractor, Factory Girl, TimeCop | Cucumber | Mocha, Chai |
+| Other | Version control, Waffle.io, Heroku |  Travis CI  |  |
+
 ### Professional Skills
 
 * #####Full Stack Web Development
-  Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
+  I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
 
 * #####Problem Solving
-  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to mathematical problems, such as the following, in particular.
+  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to real world and also fun mathematical problems, such as the following:
 
   ```
   def fibonacci(number)
@@ -27,6 +37,9 @@ Having taken an interest in software development at university, I decided to rev
   ```
 
 * #####Project Management
+  I have extensive experience managing teams of people to deliver projects to tight deadlines. While working at the Queen Elizabeth Prize for Engineering (QEPrize), I created and managed a number of events and helped to design the international media strategy of the award. In addition to this, I was responsible for the entire digital profile of the QEPrize, from social media strategy to helping design and launch the website. I also moved many of the databases online and ensured that the present team were able to continue sending newsletters and maintain the website.
+
+
 
 
 
