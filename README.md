@@ -4,11 +4,15 @@ I am a junior software developer looking to start a career in the industry and h
 
 Having taken an interest in software development at university, I decided to revisit it and apply to Makers Academy where I learnt not just to code, but that I love to code and create clean, test-driven software. I promise to adapt, learn quickly and try to be one of the most efficient and effective people you have ever hired.
 
-## Projects
+### Projects
 
 | Name | Description | Technology used |
 | ----------     | ----------     | ------------      |
 | [TeemApp](https://github.com/Kyvyas/final_project)| Final project at Makers Academy | Ruby on Rails, Javascript, jQuery, CSS, HTML, Haml, Bootstrap, Mapbox API |
 | [On Tap](https://github.com/Kyvyas/onTap_2.git) | A Web app built during a two day codeathon. It simply finds the best pubs in your area using Yelp and Google Maps | Javascript, Angular.js, Sinatra, CSS, HTML, Karma, Yelp API, Google Maps API |
 | [Instagram Clone](https://github.com/Kyvyas/instagram-challenge) | A clone of instagram, recreating the basic functionality | Ruby on Rails, jQuery, Bootstrap, Haml, CSS |
+
+### Professional Skills
+
+
 
