@@ -26,7 +26,7 @@ Having taken an interest in software development at university, I decided to rev
 
 * #####Full Stack Web Development
   I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
-  >The end of all our exploring will be to arrive at the start and know that place for the first time
+  >"The end of all our exploring will be to arrive at the start and know that place for the first time" - T.S Eliot
 
 * #####Problem Solving
   I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to real world and also fun mathematical problems, such as the following:
