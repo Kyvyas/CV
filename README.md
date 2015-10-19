@@ -14,13 +14,20 @@ Having taken an interest in software development at university, I decided to rev
 
 ### Professional Skills
 
-* #####Full Stack Web Devlopment
-
+* #####Full Stack Web Development
   Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
 
 * #####Problem Solving
+  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to mathematical problems, such as the following, in particular.
 
-  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this.
+  ```
+  def fibonacci(number)
+    number <= 1 ? number :  fibonacci( number - 1 ) + fibonacci( number - 2 )
+  end
+  ```
+
+* #####Project Management
+
 
 
 
