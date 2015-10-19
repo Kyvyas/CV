@@ -25,8 +25,7 @@ Having taken an interest in software development at university, I decided to rev
 ### Professional Skills
 
 * #####Full Stack Web Development
-  I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications. I almost can't believe how much more I was able to do after only 12 weeks, and I am now completely addicted to coding. I spent the whole of our final week continuing to code instead of writing my CV, simply because I enjoyed it so much. Thinking back to the first few weeks at Makers, it is remarkable to see how much we are all now capable of.
-  >"The end of all our exploring will be to arrive at the start and know that place for the first time" - T.S Eliot
+  I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications. I almost can't believe how much more I was able to do after only 12 weeks, and I am now completely addicted to coding.
 
 * #####Problem Solving
   I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to real world and also fun mathematical problems, such as the following:
@@ -78,5 +77,8 @@ Working at the QEPrize was an incredible and humbling experience. In addition to
 
 In addition to the above, I interned at the Campaign for Science and Engineering (CaSE) during my MSc. I learnt a great deal during both internships, not least the ability to prioritise and work to very specific policy briefs.
 
+### Footnote
 
+The last few months have been quite remarkable, I did not anticipate that I would enjoy the process of becoming a developer so much. I spent the whole of our final week continuing to code instead of writing my CV, simply because I enjoyed it so much. Thinking back to the first few weeks at Makers Academy, it is remarkable to see how much we are all now capable of. I hope that I can continue to learn, develop my skills and contribute to writing clean and beautiful software.
+  >"The end of all our exploring will be to arrive at the start and know that place for the first time" - T.S Eliot
 
