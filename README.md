@@ -42,13 +42,13 @@ Having taken an interest in software development at university, I decided to rev
 
 ### Education
 
-##### Makers Academy - *July 2015 - October 2015*
+**Makers Academy - _July 2015 - October 2015_ **
 ###### Software Development
 
-##### Imperial College London - *July 2015 - October 2015*
+**Imperial College London - _July 2015 - October 2015_ **
 ###### Msc Science Communication
 
-##### Imperial College London - *July 2015 - October 2015*
+**Imperial College London - _July 2015 - October 2015_ **
 ###### BSc Physics
 
 ### Work History
