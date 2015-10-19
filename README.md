@@ -25,7 +25,7 @@ Having taken an interest in software development at university, I decided to rev
 ### Professional Skills
 
 * #####Full Stack Web Development
-  I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
+  I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications. I almost can't believe how much more I was able to do after only 12 weeks, and I am now completely addicted to coding. I spent the whole of our final week continuing to code instead of writing my CV, simply because I enjoyed it so much. Thinking back to the first few weeks at Makers, it is remarkable to see how much we are all now capable of.
   >"The end of all our exploring will be to arrive at the start and know that place for the first time" - T.S Eliot
 
 * #####Problem Solving
