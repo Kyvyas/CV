@@ -6,8 +6,8 @@ Having taken an interest in software development at university, I decided to rev
 
 ## Projects
 
-| Name | Description | Technology used | Learning |
-| ----------     | ----------     | ------------      | ----------      |
+| Name | Description | Technology used |
+| ----------     | ----------     | ------------      |
 | TeemApp| Final project at Makers Academy | Ruby on Rails, Javascript, jQuery, CSS, HTML, Haml, Bootstrap, Mapbox API |
 | On Tap | A Web app built during a two day codeathon. It simply finds the best pubs in your area using Yelp and Google Maps | Javascript, Angular.js, Sinatra, CSS, HTML, Karma, Yelp API, Google Maps API |
 | Instagram Clone | A clone of instagram, recreating the basic functionality | Ruby on Rails, jQuery, Bootstrap, Haml, CSS |
