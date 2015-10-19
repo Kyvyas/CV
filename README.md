@@ -14,10 +14,13 @@ Having taken an interest in software development at university, I decided to rev
 
 ### Professional Skills
 
-* Full Stack Web Devlopment
+* #####Full Stack Web Devlopment
+
   Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
-* Problem Solving
-  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice my problem solving skills.
+
+* #####Problem Solving
+
+  I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this.
 
 
 
