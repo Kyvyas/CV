@@ -15,7 +15,7 @@ Having taken an interest in software development at university, I decided to rev
 ### Technologies
 
 |    | Know | Some exposure | Learning |
-| ----------     | ----------     | ------------    | ----------      |
+| -------    | ----------  | ------------  | ----------      |
 | Languages | Ruby, Javascript, jQuery, HTML, CSS, Haml | C++, Java | C, Python, Swift |
 | Databases | PostgreSQL, Datamapper, ActiveRecord  |   | MongoDB, Firebase |
 | Frameworks | Sinatra, Ruby on Rails, Angular.js, Bootstrap | Node.js, Ember.js | Django, Ionic |
