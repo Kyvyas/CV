@@ -39,7 +39,39 @@ Having taken an interest in software development at university, I decided to rev
 * #####Project Management
   I have extensive experience managing teams of people to deliver projects to tight deadlines. While working at the Queen Elizabeth Prize for Engineering (QEPrize), I created and managed a number of events and helped to design the international media strategy of the award. In addition to this, I was responsible for the entire digital profile of the QEPrize, from social media strategy to helping design and launch the website. I also moved many of the databases online and ensured that the present team were able to continue sending newsletters and maintain the website.
 
+### Education
 
+##### Makers Academy
+###### Software Development
+*July 2015 - October 2015*
+
+##### Imperial College London
+###### Msc Science Communication
+*July 2015 - October 2015*
+
+##### Imperial College London
+###### BSc Physics
+*July 2015 - October 2015*
+
+### Work History
+
+##### Queen Elizabeth Prize for Engineering (QEPrize)
+###### *Communications Manager: August 2013 - June 2015*
+*Developed and managed the QEPrize communications strategy, including the relaunch of the website, social media expansion and the creation of an international media plan.
+*Oversaw the media strategy for all key milestones, including the announcement of the second winner, Dr Robert Langer, in February 2015. This event attracted global coverage with a media reach of 600 million people.
+*Helped create a network of Engineering Ambassadors to inspire the next generation, particularly girls, to become engineers.
+*Managed a national competition for youung people to design the trophy presented by HM The Queen to the winners of the QEPrize.
+*Created and maintained the digital profile of the award.
+*Planned and delivered a number of events, including a party at the TATE Modern to celebrate the wonders of modern engineering, the announcement of the QEPrize winner and a number of events designed to inspire young people to pursue a career in engineering.
+*Managed a communications budget to maximise the international profile of the QEPrize.
+
+###### *Manager: April 2012 - July 2013*
+*As part of the team that launched the QEPrize, this job involved a number of different tasks including: High-level stakeholder management, design work, writing and social media.
+*Helped to plan and deliver the announcement of the very first QEPrize winner, the creators of the Internet and the world wide web: Sir Tim Berners Lee, Vint Cerf, Robert Langer, Marc Andreessen and Louis Pouzin.
+*Worked with a team to organise the inaugural QEPrize Awards Ceremony at Buckingham Palace, where the winners were presented with a trophy by HM The Queen. The QEPrize trophy was designed by an aspiring engineering student who won a national competition and who was given the opportunity to work with artist, Thomas Heatherwick.
+*We operated in a similar way to a start-up, under intense time pressure and with incredibly tight deadlines.
+
+Working at the QEPrize was an incredible and humbling experience. In addition to collaborating with and meeting some of the world’s most distinguished engineers (and HM The Queen), I was privileged to work with and for a remarkable group of people.
 
 
 
