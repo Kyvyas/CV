@@ -26,6 +26,7 @@ Having taken an interest in software development at university, I decided to rev
 
 * #####Full Stack Web Development
   I initially started coding at university with C++ and Matlab, I moved on to HTML and CSS in order to design and code newsletters and simple websites for various jobs. Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
+  >The end of all our exploring will be to arrive at the start and know that place for the first time
 
 * #####Problem Solving
   I naturally enjoy solving problems and studying Physics at university allowed me to refine and practice this. At Makers Academy, problem solving is a way of life, and there is an emphasis on thinking logically. I have learnt a great deal about the process of problem solving in programming, and I have enjoyed coming up with solutions to real world and also fun mathematical problems, such as the following:
@@ -37,25 +38,23 @@ Having taken an interest in software development at university, I decided to rev
   ```
 
 * #####Project Management
-  I have extensive experience managing teams of people to deliver projects to tight deadlines. While working at the Queen Elizabeth Prize for Engineering (QEPrize), I created and managed a number of events and helped to design the international media strategy of the award. In addition to this, I was responsible for the entire digital profile of the QEPrize, from social media strategy to helping design and launch the website. I also moved many of the databases online and ensured that the present team were able to continue sending newsletters and maintain the website.
+  I have extensive experience managing teams of people to deliver projects to tight deadlines. While working at the Queen Elizabeth Prize for Engineering (QEPrize), I created and managed a number of events and helped to design the international media strategy of the award. In addition to this, I was responsible for the entire digital profile of the QEPrize, from social media strategy to helping design and launch the website. I also moved many of the databases online and ensured that the present team were able to continue sending newsletters and maintain the website. I also worked worked on a small team to deliver one of the largest TEDx events in the world at the Royal Albert Hall - TEDxAlbertopolis.
 
 ### Education
 
-##### Makers Academy
+##### Makers Academy - *July 2015 - October 2015*
 ###### Software Development
-*July 2015 - October 2015*
 
-##### Imperial College London
+##### Imperial College London - *July 2015 - October 2015*
 ###### Msc Science Communication
-*July 2015 - October 2015*
 
-##### Imperial College London
+##### Imperial College London - *July 2015 - October 2015*
 ###### BSc Physics
-*July 2015 - October 2015*
 
 ### Work History
 
 ##### Queen Elizabeth Prize for Engineering (QEPrize)
+*A global, £1million prize, awarded every two years to engineers who have changed the world*
 ###### *Communications Manager: August 2013 - June 2015*
 * Developed and managed the QEPrize communications strategy, including the relaunch of the website, social media expansion and the creation of an international media plan.
 * Oversaw the media strategy for all key milestones, including the announcement of the second winner, Dr Robert Langer, in February 2015. This event attracted global coverage with a media reach of 600 million people.
@@ -73,6 +72,11 @@ Having taken an interest in software development at university, I decided to rev
 
 Working at the QEPrize was an incredible and humbling experience. In addition to collaborating with and meeting some of the world’s most distinguished engineers (and HM The Queen), I was privileged to work with and for a remarkable group of people.
 
+##### Institution of Engineering and Technology (IET)
+*Professional society for the engineering and technology community*
+###### *Policy Intern: November 2011 - February 2012*
+
+In addition to the above, I interned at the Campaign for Science and Engineering (CaSE) during my MSc. I learnt a great deal during both internships, not least the ability to prioritise and work to very specific policy briefs.
 
 
 
