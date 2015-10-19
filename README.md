@@ -4,7 +4,7 @@ I am a junior software developer looking to start a career in the industry and h
 
 Having taken an interest in software development at university, I decided to revisit it and apply to Makers Academy where I learnt not just to code, but that I love to code and create clean, test-driven software. I promise to adapt, learn quickly and try to be one of the most efficient and effective people you have ever hired.
 
-### Projects
+### A Few Projects
 
 | Name | Description | Technology used |
 | ----------     | ----------     | ------------      |
@@ -13,6 +13,11 @@ Having taken an interest in software development at university, I decided to rev
 | [Instagram Clone](https://github.com/Kyvyas/instagram-challenge) | A clone of instagram, recreating the basic functionality | Ruby on Rails, jQuery, Bootstrap, Haml, CSS |
 
 ### Professional Skills
+
+* Full Stack Web Devlopment
+  - Having completed a 12 week intensive training course in software development at Makers Academy, I went from knowing only the basics to being able to build fully tested web applications.
+  -
+* Problem Solving
 
 
 
