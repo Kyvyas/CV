@@ -58,7 +58,7 @@ Having taken an interest in software development at university, I decided to rev
 * Developed and managed the QEPrize communications strategy, including the relaunch of the website, social media expansion and the creation of an international media plan.
 * Oversaw the media strategy for all key milestones, including the announcement of the second winner, Dr Robert Langer, in February 2015. This event attracted global coverage with a media reach of 600 million people.
 * Helped create a network of Engineering Ambassadors to inspire the next generation, particularly girls, to become engineers.
-* Managed a national competition for youung people to design the trophy presented by HM The Queen to the winners of the QEPrize.
+* Managed a national competition for young people to design the trophy presented by HM The Queen to the winners of the QEPrize.
 * Created and maintained the digital profile of the award.
 * Planned and delivered a number of events, including a party at the TATE Modern to celebrate the wonders of modern engineering, the announcement of the QEPrize winner and a number of events designed to inspire young people to pursue a career in engineering.
 * Managed a communications budget to maximise the international profile of the QEPrize.
