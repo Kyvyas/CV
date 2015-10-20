@@ -79,6 +79,6 @@ In addition to the above, I interned at the Campaign for Science and Engineering
 
 ### Footnote
 
-The last few months have been quite remarkable, I did not anticipate that I would enjoy the process of becoming a developer so much. I spent the whole of our final week continuing to code instead of writing my CV, simply because I enjoyed it so much. Thinking back to the first few weeks at Makers Academy, it is remarkable to see how much we are all now capable of. I hope that I can continue to learn, develop my skills and contribute to writing clean and beautiful software.
+The last few months have been quite remarkable, I did not anticipate how much I would enjoy the process of becoming a developer. I spent the whole of our final week continuing to code instead of writing my CV, simply because I was having fun. Thinking back to the first few weeks at Makers Academy, it is incredible to see how much we are all now capable of. I hope that I can continue to learn, develop my skills and contribute to writing clean and beautiful software.
   >"The end of all our exploring will be to arrive at the start and know that place for the first time" - T.S Eliot
 
